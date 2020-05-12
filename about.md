@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Pratyush
-permalink: /about/
+permalink: DailyBlog/about/
 tags: about
 ---
 
